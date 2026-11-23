@@ -1,2 +1,2 @@
-# Exerc-cios-Aula-dia-28-08-2026
+APLICAÇÕES WEB
 Respostas dos Exercícios JavaScript
